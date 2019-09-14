@@ -4,7 +4,7 @@
 This repository has PCB design, schematics, eletrical diagrams, gerber files, BOM files. It haVE two daugther boards (or 'shields'). One for the Arduino Mega (see ard-shield dir) and the other for the Raspberry Pi (see rasp-shield dir). 
 
 The following image dipicts it clearly. 
-![Meet Harsh Singh!!!](Actual.png)
+![!!!](actual.png)
 
 ## Manufacturing the boards
 
